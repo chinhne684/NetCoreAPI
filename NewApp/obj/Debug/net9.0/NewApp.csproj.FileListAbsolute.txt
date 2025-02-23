@@ -1,0 +1,15 @@
+/Volumes/Data/Net_Core_API/NewApp/bin/Debug/net9.0/NewApp
+/Volumes/Data/Net_Core_API/NewApp/bin/Debug/net9.0/NewApp.deps.json
+/Volumes/Data/Net_Core_API/NewApp/bin/Debug/net9.0/NewApp.runtimeconfig.json
+/Volumes/Data/Net_Core_API/NewApp/bin/Debug/net9.0/NewApp.dll
+/Volumes/Data/Net_Core_API/NewApp/bin/Debug/net9.0/NewApp.pdb
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.AssemblyInfoInputs.cache
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.AssemblyInfo.cs
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.csproj.CoreCompileInputs.cache
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.sourcelink.json
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.dll
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/refint/NewApp.dll
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.pdb
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/NewApp.genruntimeconfig.cache
+/Volumes/Data/Net_Core_API/NewApp/obj/Debug/net9.0/ref/NewApp.dll
